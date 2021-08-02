@@ -15,7 +15,7 @@
 |<ul><li>- [ ] Done</li></ul>|8|[Lucky Division](http://codeforces.com/problemset/problem/122/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|9|[Presents](http://codeforces.com/problemset/problem/136/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|10|[Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|11|[Arrival of the General](http://codeforces.com/problemset/problem/144/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|11|[Arrival of the General](http://codeforces.com/problemset/problem/144/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|12|[Game With Sticks](http://codeforces.com/problemset/problem/451/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|13|[Games](http://codeforces.com/problemset/problem/268/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|14|[Dubstep](http://codeforces.com/problemset/problem/208/A)|Codeforces|2|
