@@ -40,7 +40,7 @@
 |<ul><li>- [ ] Done</li></ul>|33|[Appleman and Easy Task](http://codeforces.com/problemset/problem/462/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|34|[Bear and Raspberry](http://codeforces.com/problemset/problem/385/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|35|[Lunch Rush](http://codeforces.com/problemset/problem/276/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|36|[Laptops](http://codeforces.com/problemset/problem/456/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|36|[Laptops](http://codeforces.com/problemset/problem/456/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|37|[Soft Drinking](http://codeforces.com/problemset/problem/151/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|38|[Playing with Dice](http://codeforces.com/problemset/problem/378/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|39|[Minimum Difficulty](http://codeforces.com/problemset/problem/496/A)|Codeforces|2|
