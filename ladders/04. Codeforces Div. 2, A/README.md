@@ -1,7 +1,6 @@
 # Ladder Name: 4 - Codeforces Div. 2, A
 ## Description
  List of random Codeforces problems, all of them are Div. 2 A problems. The problems are sorted, the most solved problem comes first. This is a good practice for whoever is beginner in programming problems.
-## Difficulty Level: 2
 
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
 |---|:---:|:---:|---|---|
@@ -76,7 +75,7 @@
 |<ul><li>- [ ] Done</li></ul>|69|[Lever](http://codeforces.com/problemset/problem/376/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|70|[Table](http://codeforces.com/problemset/problem/359/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|71|[Eugeny and Array](http://codeforces.com/problemset/problem/302/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|72|[Dima and Continuous Line](http://codeforces.com/problemset/problem/358/A)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|72|[Dima and Continuous Line](http://codeforces.com/problemset/problem/358/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|73|[Reconnaissance 2](http://codeforces.com/problemset/problem/34/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|74|[Help Vasilisa the Wise 2](http://codeforces.com/problemset/problem/143/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|75|[Comparing Strings](http://codeforces.com/problemset/problem/186/A)|Codeforces|3|
@@ -85,7 +84,7 @@
 |<ul><li>- [ ] Done</li></ul>|78|[Exams](http://codeforces.com/problemset/problem/194/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|79|[Card Game](http://codeforces.com/problemset/problem/106/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|80|[Sockets](http://codeforces.com/problemset/problem/257/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|81|[Snow Footprints](http://codeforces.com/problemset/problem/298/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|81|[Snow Footprints](http://codeforces.com/problemset/problem/298/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|82|[Point on Spiral](http://codeforces.com/problemset/problem/279/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|83|[Next Test](http://codeforces.com/problemset/problem/27/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|84|[Rook, Bishop and King](http://codeforces.com/problemset/problem/370/A)|Codeforces|3|
