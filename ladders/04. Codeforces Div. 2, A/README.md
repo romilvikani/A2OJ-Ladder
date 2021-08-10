@@ -102,5 +102,5 @@
 |<ul><li>- [ ] Done</li></ul>|96|[Inna and Pink Pony](http://codeforces.com/problemset/problem/374/A)|Codeforces|5|
 |<ul><li>- [ ] Done</li></ul>|97|[Nineteen](http://codeforces.com/problemset/problem/393/A)|Codeforces|4|
 |<ul><li>- [x] Done</li></ul>|98|[Inna and Alarm Clock](http://codeforces.com/problemset/problem/390/A)|Codeforces|5|
-|<ul><li>- [ ] Done</li></ul>|99|[On Segment's Own Points](http://codeforces.com/problemset/problem/397/A)|Codeforces|6|
+|<ul><li>- [x] Done</li></ul>|99|[On Segment's Own Points](http://codeforces.com/problemset/problem/397/A)|Codeforces|6|
 |<ul><li>- [ ] Done</li></ul>|100|[Cinema](http://codeforces.com/problemset/problem/200/A)|Codeforces|8|
