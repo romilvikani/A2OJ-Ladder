@@ -90,7 +90,7 @@
 |<ul><li>- [ ] Done</li></ul>|84|[Rook, Bishop and King](http://codeforces.com/problemset/problem/370/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|85|[Sleuth](http://codeforces.com/problemset/problem/49/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|86|[Cows and Primitive Roots](http://codeforces.com/problemset/problem/284/A)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|87|[Funky Numbers](http://codeforces.com/problemset/problem/192/A)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|87|[Funky Numbers](http://codeforces.com/problemset/problem/192/A)|Codeforces|4|
 |<ul><li>- [x] Done</li></ul>|88|[Bar](http://codeforces.com/problemset/problem/56/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|89|[Lefthanders and Righthanders ](http://codeforces.com/problemset/problem/234/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|90|[Worms Evolution](http://codeforces.com/problemset/problem/31/A)|Codeforces|2|
