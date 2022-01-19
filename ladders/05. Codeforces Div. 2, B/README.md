@@ -7,7 +7,7 @@ efo# Ladder Name: 5 - Codeforces Div. 2, B
 |---|:---:|:---:|---|---|
 |<ul><li>- [x] Done</li></ul>|1|[Queue at the School](http://codeforces.com/problemset/problem/266/B)|Codeforces|1|
 |<ul><li>- [x] Done</li></ul>|2|[Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|3|[Fedor and New Game](http://codeforces.com/problemset/problem/467/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|3|[Fedor and New Game](http://codeforces.com/problemset/problem/467/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|4|[Random Teams](http://codeforces.com/problemset/problem/478/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|5|[Vanya and Lanterns](http://codeforces.com/problemset/problem/492/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|6|[Sort the Array](http://codeforces.com/problemset/problem/451/B)|Codeforces|4|
